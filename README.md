@@ -33,9 +33,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Short rules sent by Maister Richard Greenham to a gentlewoman troubled in minde for her direction an
+
+1. Short Rules sent by Maister Richard Greenham to a Gentlevvoman troubled in minde, for her direction and consolation, also very necessary for euery Christian to be exercised withall: VVith directions for a Christian life.
+
+1. A Scoare of holesome Precepts, or Directions for a Christian life.
+
 #####Back#####
-Short rules sent by Maister Richard Greenham to a gentlewoman troubled in minde for her direction an
+Printed at London by T.S. for T.P. and are to be sould at the entring of the Exchange. 1612.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
